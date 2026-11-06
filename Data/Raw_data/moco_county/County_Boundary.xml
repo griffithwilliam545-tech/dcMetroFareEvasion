@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns="http://www.isotc211.org/2005/gmd">
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact gco:nilReason="missing"/>
+    <dateStamp gco:nilReason="missing"/>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>County Boundary</gco:CharacterString>
+                    </title>
+                    <date gco:nilReason="missing"/>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>County boundary polygon of Montgomery County, Maryland.&amp;nbsp;&amp;nbsp;For more information, contact: GIS Manager Information Technology &amp;amp; Innovation (ITI) Montgomery County Planning Department, MNCPPC T: 301-650-5620</gco:CharacterString>
+            </abstract>
+            <credit>
+                <gco:CharacterString>Information Technology &amp; Innovation (ITI), Montgomery County Planning Department, MNCPPC</gco:CharacterString>
+            </credit>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Administrative Boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Montgomery County</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Montgomery County Planning Department</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>MNCPPC</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Maryland</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Montgomery County Planning Department</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Montgomery County Planning Department</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>MoCo Boundary</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>MoCo</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>County_Boundary</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>You can copy, modify, distribute, and perform analysis on the data, even for commercial purposes, all without asking permission, but please provide attribution to the Montgomery County Planning Department. The Planning Department makes no warranties about the data, and disclaims liability for all uses of the data, to the fullest extent permitted by applicable law.</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <language gco:nilReason="missing"/>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+            <extent>
+                <EX_Extent>
+                    <geographicElement>
+                        <EX_GeographicBoundingBox>
+                            <westBoundLongitude>
+                                <gco:Decimal>-77.5292413459477</gco:Decimal>
+                            </westBoundLongitude>
+                            <eastBoundLongitude>
+                                <gco:Decimal>-76.8872319157525</gco:Decimal>
+                            </eastBoundLongitude>
+                            <southBoundLatitude>
+                                <gco:Decimal>38.9332695414951</gco:Decimal>
+                            </southBoundLatitude>
+                            <northBoundLatitude>
+                                <gco:Decimal>39.3544476271252</gco:Decimal>
+                            </northBoundLatitude>
+                        </EX_GeographicBoundingBox>
+                    </geographicElement>
+                </EX_Extent>
+            </extent>
+        </MD_DataIdentification>
+    </identificationInfo>
+</MD_Metadata>
